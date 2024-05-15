@@ -30,7 +30,7 @@ API на FastAPI для инференса модели предсказания
 ![alt text](./imgs/predict_get.png)
 
 
-Путь /health для получения предсказания, методом POST
+Путь /predict_post для получения предсказания, методом POST
 
 ![alt text](./imgs/predict_post_1.png)
 ![alt text](./imgs/predict_post_2.png)
